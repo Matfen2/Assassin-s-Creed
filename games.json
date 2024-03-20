@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "logo": "assets/pict/ac2Logo.jpg",
+        "wallpaper": "assets/pict/ac2Animus.jpg"
+    },
+    {
+        "id": 2,
+        "logo": "assets/pict/acBrotherhoodLogo.jpg",
+        "wallpaper": "assets/pict/acBrotherhoodAnimus.jpg"
+    },
+    {
+        "id": 3,
+        "logo": "assets/pict/acRevelationLogo.jpg",
+        "wallpaper": "assets/pict/acRevelationAnimus.jpg"
+    },
+    {
+        "id": 4,
+        "logo": "assets/pict/ac4Logo.jpg",
+        "wallpaper": "assets/pict/ac4Animus.jpg"
+    },
+    {
+        "id": 5,
+        "logo": "assets/pict/acUnityLogo.jpg",
+        "wallpaper": "assets/pict/acUnityAnimus.jpg"
+    },
+    {
+        "id": 6,
+        "logo": "assets/pict/acOriginsLogo.jpg",
+        "wallpaper": "assets/pict/acOriginsAnimus.jpg"
+    }
+]
